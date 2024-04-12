@@ -1,0 +1,3 @@
+C:/Users/Josh/Documents/School/Object Oriented SWE/figuring it out/Try 1/build/CMakeFiles/IDK.dir
+C:/Users/Josh/Documents/School/Object Oriented SWE/figuring it out/Try 1/build/CMakeFiles/edit_cache.dir
+C:/Users/Josh/Documents/School/Object Oriented SWE/figuring it out/Try 1/build/CMakeFiles/rebuild_cache.dir
